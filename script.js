@@ -1,4 +1,4 @@
-// ANTO Servicio Técnico — interacciones del sitio
+// CANTO Servicio Técnico — interacciones del sitio
 
 document.addEventListener('DOMContentLoaded', () => {
 
